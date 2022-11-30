@@ -36,3 +36,5 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+나는 정말 알고싶다,,, 알림이 과연 다시 갈까 ,,,,?
